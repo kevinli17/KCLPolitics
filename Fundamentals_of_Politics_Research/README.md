@@ -6,6 +6,7 @@
 
 <h3>Overview:</h3>
 This module will help you make the transition from studying politics and other subjects at school, to studying politics at university. The general aim is to empower you to read, analyse and write about politics research rigorously, sophisticatedly, insightfully and critically.
+
 - to encourage you to see yourselves as researchers, not just as students;
 - to help you spot good and bad approaches to studying politics; 
 - to evaluate strengths and weaknesses in academic research about politics;
@@ -15,6 +16,7 @@ This module will help you make the transition from studying politics and other s
 
 <h3>Learning Outcomes</h3>
 At the end of the module, you will be able to:
+
 - spot and overcome common errors in reading, analysing and writing about politics, by students and by academics;
 - understand and apply good practice in reading, analysing and writing about politics;
 - understand and apply core ideas and distinctions in the academic study of politics;
