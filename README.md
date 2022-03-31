@@ -1,7 +1,7 @@
 # KCLPolitics
 King's College London Politics Course
 
-This is a repository of Lecture Slides, Notes, and Readings from the King's College London Politics Course
+This is a repository of Lecture Slides from the King's College London Politics Course
 
 Courses Availiable:
 Year One:
