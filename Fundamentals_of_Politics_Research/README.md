@@ -23,6 +23,7 @@ At the end of the module, you will be able to:
 - understand and assess strengths and weaknesses of different approaches to the study of politics.
 
 <h3>Timetable</h3>
+
 Week 1: Introduction
 Week 2: Questions
 Week 3: Answers
