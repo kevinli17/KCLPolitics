@@ -24,15 +24,15 @@ At the end of the module, you will be able to:
 
 <h3>Timetable</h3>
 
-Week 1: Introduction
-Week 2: Questions
-Week 3: Answers
-Week 4: A Science of Politics
-Week 5: Quantitative and Qualitative
-Week 6: (No lecture - Reading Week)
-Week 7: Facts and Values
-Week 8: Her and Him
-Week 9: Subject and Object
-Week 10: Concepts
-Week 11: Bullshit
-Week 12: Ethical Scholarship
+- Week 1: Introduction
+- Week 2: Questions
+- Week 3: Answers
+- Week 4: A Science of Politics
+- Week 5: Quantitative and Qualitative
+- Week 6: (No lecture - Reading Week)
+- Week 7: Facts and Values
+- Week 8: Her and Him
+- Week 9: Subject and Object
+- Week 10: Concepts
+- Week 11: Bullshit
+- Week 12: Ethical Scholarship
