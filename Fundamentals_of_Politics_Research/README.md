@@ -1,7 +1,7 @@
 <h1>Fundamentals of Politics Research </h1>
+
 - Module: 4SSPP101 Fundamentals of Politics Research
-- Date: Term 1, 2021-22
-- Number of Credits: 15
+- Date: 2021-2022 Semester 1
 - Module Convenor: Professor Adrian Blau, King's College London
 
 <h3>Overview:</h3>
